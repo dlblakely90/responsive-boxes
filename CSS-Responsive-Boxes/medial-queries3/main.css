@@ -1,0 +1,68 @@
+body {
+  background: peachpuff;
+}
+
+/* {
+  box-sizing: border-box;
+} */
+
+.a {
+  border: 1px solid red;
+  padding: 100px;
+}
+
+.b {
+  width: 20%;
+  float: left;
+  height: 193px;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.c {
+  width: 23.35%;
+  height: 470px;
+  float: right;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.d {
+  width: 20%;
+  float: left;
+  height: 193px;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.e {
+  width: 19%;
+  float: left;
+  height: 193px;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.f {
+  width: 20%;
+  float: left;
+  height: 193px;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.g{
+  width: 20%;
+  float: left;
+  height: 193px;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.h {
+  width: 19%;
+  float: left;
+  height: 193px;
+  padding: 41px;
+  border: 1px solid red;
+}

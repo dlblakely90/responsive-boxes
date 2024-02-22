@@ -1,0 +1,51 @@
+body {
+  background: blanchedalmond;  
+}
+
+/* {
+  box-sizing: border-box;
+} */
+
+.a {
+  border: 1px solid red;
+  padding: 50px;
+}
+
+.b {
+  width: 66.9%;
+  float: left;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.c {
+  width: 24.25%;
+  height: 300px;
+  float: right;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.d {
+  width: 20%;
+  float: left;
+  height: 193px;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.e {
+  width: 19%;
+  float: left;
+  height: 193px;
+  padding: 41px;
+  border: 1px solid red;
+}
+
+.f {
+  width: 19.1%;
+  float: left;
+  height: 193px;
+  padding: 41px;
+  border: 1px solid red;
+}
